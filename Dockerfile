@@ -11,4 +11,4 @@ COPY gaber.java .
 RUN javac gaber.java
 
 
-CMD ["java", "HelloGaber"]
+CMD ["java", "HiGaber"]
